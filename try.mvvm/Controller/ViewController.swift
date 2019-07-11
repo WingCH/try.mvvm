@@ -16,7 +16,6 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print( a )
         // #1 - The UITableViewDataSource and
         // UITableViewDelegate protocols are
         // adopted in extensions.
