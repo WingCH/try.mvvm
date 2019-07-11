@@ -28,6 +28,7 @@
 		0ECD8A8D22D71913000F6A64 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0ECD8A9022D71913000F6A64 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		0ECD8A9122D71913000F6A64 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		0ECD8A9922D71A4A000F6A64 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +45,7 @@
 		0ECD8A1222D6EB4F000F6A64 = {
 			isa = PBXGroup;
 			children = (
+				0ECD8A9922D71A4A000F6A64 /* README.md */,
 				0ECD8A1D22D6EB4F000F6A64 /* try.mvvm */,
 				0ECD8A1C22D6EB4F000F6A64 /* Products */,
 			);
